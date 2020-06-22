@@ -1,1 +1,5 @@
 # C-School-Project
+
+# Summarize the project and what problem it was solving, what your strengths were and what you could do to enhance the code.
+For this project we were tasked with integrating java and C++ code using JNI, and to create a Zoo interface system. This system creates an object Animal and stores it in a vector which is saved in a txt file. The user has the option to add more records of animals, delete a specific animal, save the current list or display the list to the user. Since the old system did not allow for maintenance, this code revamps the entire system and allows the company to modify their data. This project required a lot of research into the multitude of public member functions and their varied uses. The code could be enhanced by adding more ways to modify the animals data. Currently, the program asks if the animal is nursing or has eggs and that information is subject ot change over time and the only way to modify it is to delete the entire record and retype it all. A better solution would be to search for the animal by their tracking number and allow the user to modify certain variables.
+
